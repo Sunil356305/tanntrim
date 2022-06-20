@@ -260,6 +260,7 @@ ul li{list-style: none;
 }
 button{
   display: block;
+  font-size: 1.2rem;
 }
 
 
@@ -273,7 +274,7 @@ button{
   list-style: none;
   background-color: #141414;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  top: 80px;
+  top: 60px;
   left: 0;
   width: 746px;
   height: 30vh;
@@ -330,7 +331,7 @@ button{
 
 .nav-links{
   width: 300px;
-  height: 250px;
+  height: 230px;
 }
 .banner_img{
   gap: 20px;
@@ -345,7 +346,7 @@ button{
 @media(max-width:375px){
   .cart_header{
     width: 238px;
-    margin: 30px 36px;
+    margin: 30px 75px;
   }
 
 
