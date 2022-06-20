@@ -274,7 +274,7 @@ button{
   list-style: none;
   background-color: #141414;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  top: 60px;
+  top: 50px;
   left: 0;
   width: 746px;
   height: 30vh;
@@ -348,6 +348,8 @@ button{
     width: 238px;
     margin: 30px 75px;
   }
-
+.grid{
+  margin-top: 88px;
+}
 
 }
